@@ -1,0 +1,75 @@
+#vmess : b9d9d933-aec6-4194-9fd5-879a457adf8e
+#path : /vmess-ntls
+
+proxies:
+#xlip-vm
+- name: xlip-vm1
+  type: vmess
+  server: 104.17.3.81
+  port: 80
+  uuid: b9d9d933-aec6-4194-9fd5-879a457adf8e
+  alterId: 0
+  cipher: auto
+  udp: false
+  global-padding: false
+  authenticated-length: false
+  skip-cert-verify: true
+  tls: false
+  network: ws
+  ws-opts:
+    path: "/vmess-ntls"
+    headers:
+      Host: sg2.cloudtik.my.id
+
+#xlip-vm
+- name: xlip-vm1
+  type: vmess
+  server: 104.17.3.81
+  port: 80
+  uuid: b9d9d933-aec6-4194-9fd5-879a457adf8e
+  alterId: 0
+  cipher: auto
+  udp: false
+  global-padding: false
+  authenticated-length: false
+  skip-cert-verify: true
+  tls: false
+  network: ws
+  ws-opts:
+    path: "/vmess-ntls"
+    headers:
+      Host: sg2.cloudtik.my.id
+- name: xlip-vm2
+  type: vmess
+  server: edu.ruangguru.com
+  port: 80
+  uuid: b9d9d933-aec6-4194-9fd5-879a457adf8e
+  alterId: 0
+  cipher: auto
+  udp: false
+  global-padding: false
+  authenticated-length: false
+  skip-cert-verify: true
+  tls: false
+  network: ws
+  ws-opts:
+    path: "/vmess-ntls"
+    headers:
+      Host: sg2.cloudtik.my.id
+- name: xlip-vm3
+  type: vmess
+  server: cdn.udemy.com
+  port: 80
+  uuid: b9d9d933-aec6-4194-9fd5-879a457adf8e
+  alterId: 0
+  cipher: auto
+  udp: false
+  global-padding: false
+  authenticated-length: false
+  skip-cert-verify: true
+  tls: false
+  network: ws
+  ws-opts:
+    path: "/vmess-ntls"
+    headers:
+      Host: sg2.cloudtik.my.id
