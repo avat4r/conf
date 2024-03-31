@@ -4,7 +4,7 @@ proxy-providers:
   account:
     type: http
     path: "./pro_pro/GHSAT0AAkkjcgknbsodkdnAAAACkfkLTQJDY3YBLQkknvv5GLB7ITJkmdnksbIUWZOY6UCQ"
-    url: https://raw.githubusercontent.com/cloud4tik/ConfigINet/main/clash/meta/account/obin-all?token=GHSAT0AAAAAACQJC32GH7D2JPPRZ43CSBWWZQI6IGA
+    url: https://raw.githubusercontent.com/cloud4tik/ConfigINet/main/clash/meta/account/obin-all?token=GHSAT0AAAAAACQJC32GDX6DWTLMUZHUJONSZQI6TNA
     interval: 86400
     health-check:
       enable: true
