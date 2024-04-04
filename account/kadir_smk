@@ -4,7 +4,7 @@ proxy-providers:
   account:
     type: http
     path: "./pro_pro/GHSAT0AAAAAACLTQJDY3YBLQ5GLB7ITJIUWZOY6UCQ"
-    url: https://raw.githubusercontent.com/cloud4tik/ConfigINet/main/clash/meta/account/kadir_smk-tsel?token=GHSAT0AAAAAACLTQJDZQGCJUZA44LHAF6LYZQDWZ5A
+    url: https://raw.githubusercontent.com/cloud4tik/ConfigINet/main/clash/meta/account/kadir_smk-tsel?token=GHSAT0AAAAAACQJC32HMR7WF4ZI3AAESVY6ZQPHCHA
     interval: 86400
     health-check:
       enable: true
