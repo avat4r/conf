@@ -4,7 +4,7 @@ proxy-providers:
   account:
     type: http
     path: "./pro_pro/GHSAT0AAAAAACLTQJDY3YBLQ5GLB7ITJIUWZOY6UCQ"
-    url: https://raw.githubusercontent.com/cloud4tik/ConfigINet/main/clash/meta/account/yanti-tsel?token=GHSAT0AAAAAACQJC32G5KZQB5PKQMYECPGAZQPMP6Q
+    url: https://raw.githubusercontent.com/cloud4tik/ConfigINet/main/clash/meta/account/yanti-tsel?token=GHSAT0AAAAAACQJC32HUDNCL7AU3N3CP34KZQPWKMA
     interval: 86400
     health-check:
       enable: true
