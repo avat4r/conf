@@ -4,7 +4,7 @@ proxy-providers:
   account:
     type: http
     path: "./pro_pro/GHSAT0AAAAAACLTQJDY3YBLQ5GLB7ITJIUWZOY6UCQ"
-    url: http://raw.githubusercontent.com/cloud4tik/ConfigINet/main/clash/meta/account/Tata-tsel?token=GHSAT0AAAAAACQJC32GWKU3SMMJZRDJUB22ZRLUOQQ
+    url: http://raw.githubusercontent.com/cloud4tik/ConfigINet/main/clash/meta/account/Tata-tsel?token=GHSAT0AAAAAACQJC32H6RORHF7KKJDPO3AWZRLUURA
     interval: 86400
     health-check:
       enable: true
