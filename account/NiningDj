@@ -4,7 +4,7 @@ proxy-providers:
   account:
     type: http
     path: "./pro_pro/GHSAT0AAAAAACLTQJDY3YBLQ5GLB7ITJIUWZOY6UCQ"
-    url: http://raw.githubusercontent.com/cloud4tik/ConfigINet/main/clash/meta/account/NiningDj-tsel?token=GHSAT0AAAAAACQJC32HW3REUGTDCN7LSJGUZRQVZYA
+    url: https://raw.githubusercontent.com/cloud4tik/ConfigINet/main/clash/meta/account/NiningDj-tsel?token=GHSAT0AAAAAACQJC32HW3REUGTDCN7LSJGUZRQVZYA
     interval: 86400
     health-check:
       enable: true
